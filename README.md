@@ -1,4 +1,4 @@
-# bo-sample <!-- TODO: badge -->
+# {{name:dot}} <!-- TODO: badge -->
 
 > <!-- TODO: Overview -->
 <!-- TODO: description -->

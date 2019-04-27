@@ -1,8 +1,8 @@
-const BoSample = require('../lib/index')
+const {{name:pascal}} = require('../lib/index')
 
 test('sample', () => {
   const spy = jest.spyOn(console, 'log')
-  const mick = new BoSample('mick')
+  const mick = new {{name:pascal}}('mick')
   mick.greet()
   expect(spy).toHaveBeenCalledWith('hello mick')
 })

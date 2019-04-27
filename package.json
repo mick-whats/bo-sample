@@ -1,5 +1,5 @@
 {
-  "name": "bo-sample",
+  "name": {{name:dot}},
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
